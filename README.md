@@ -1,131 +1,62 @@
 
-<!-- ===================== HERO BANNER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102A56,100:2563EB&height=200&section=header&text=Zain%20Ansari&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Web%20Development%20%7C%20Business%20Solutions&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Zain Ansari — Web Development and Business Solutions" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,45:102653,100:2563EB&text=ZAIN%20ANSARI&fontColor=FFFFFF&fontSize=56&fontAlignY=38&desc=ENGINEERING%20DIGITAL%20SOLUTIONS&descAlignY=59&descSize=17&animation=fadeIn" alt="Zain Ansari — Engineering Digital Solutions" />
 
-<h3>Building Digital Solutions That Help Businesses Grow</h3>
+<a href="https://github.com/Zain-developer-ui">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=800&color=60A5FA&center=true&vCenter=true&width=650&lines=Web+Applications+%26+Business+Systems;Building+Practical+Digital+Solutions;Turning+Ideas+Into+Working+Products" alt="Animated introduction" />
+</a>
 
-<p>
-  I build web applications, business systems, and practical digital solutions
-  focused on solving real-world problems.
-</p>
+<br/>
 
-<p>
-  <a href="https://zain-developer-ui.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/zain-developer/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Zain-developer-ui">
-    <img src="https://img.shields.io/badge/GitHub-Explore-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<a href="https://zain-developer-ui.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/zain-developer/">
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Zain-developer-ui&style=flat-square&color=2563EB&label=PROFILE+VISITORS" alt="Profile visitor counter"/>
 
 </div>
 
 ---
 
-## 👋 About Me
-
-I'm Zain Ansari, a developer interested in building useful web applications and helping businesses strengthen their online presence.
-
-- 🔭 Currently working on **ASP.NET projects and WinClient AI**
-- 🌱 Currently learning **ASP.NET Core**
-- 💼 Interested in collaborating with businesses to help them grow online through better websites and digital solutions
-- 🤝 Working toward building and growing a web development agency
-- 💬 Ask me about **PHP, Laravel, ASP.NET, JavaScript, and MySQL**
-- 🌐 Explore my work: [Portfolio](https://zain-developer-ui.github.io/portfolio/)
-
----
-
-## 🛠️ Technologies & Tools
-
 <div align="center">
 
-### Languages
+### THE MISSION
 
-<img src="https://skillicons.dev/icons?i=cs,php,js,html,css&theme=dark" alt="C Sharp, PHP, JavaScript, HTML and CSS" />
+**Build better digital experiences. Solve real problems. Help businesses grow.**
 
-### Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=dotnet,laravel,bootstrap,jquery,nextjs&theme=dark" alt="Dot NET, Laravel, Bootstrap, jQuery and Next.js" />
-
-### Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman&theme=dark" alt="MySQL, MongoDB, Git, GitHub and Postman" />
+I work on web applications, business systems, and practical digital products
+with a focus on usability, functionality, and real-world value.
 
 </div>
 
-**Additional experience:** SQL Server, REST APIs, JSON, AJAX, XAMPP and phpMyAdmin.
-
----
-
-## 🚀 Featured Projects
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📦 CMS Courier Management System
+### `01` — WHAT I BUILD
 
-A courier management application built to support shipment workflows and user roles.
-
-- Shipment booking and tracking
-- Role-based user workflows
-- OTP verification
-- Security measures including CSRF protection
-
-**Tech:** PHP · MySQL · Bootstrap
-
-[↗ View Repository](https://github.com/Zain-developer-ui/CMS-Courier-Management-System)
+- Business websites & web applications
+- Custom management systems
+- Database-driven applications
+- AI-powered web features
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 WinClient AI
+### `02` — WHERE I'M HEADED
 
-An AI-powered project focused on helping freelancers improve their workflow and discover relevant opportunities.
-
-- AI-assisted proposal generation
-- Profile and gig optimization
-- Job analysis and safety checks
-- Freelance workflow assistance
-
-**Tech:** PHP · MySQL · AI API integrations
-
-*Currently not publicly available.*
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio
-
-A central place to explore my development work, projects, and skills.
-
-- Project showcase
-- Professional introduction
-- Contact and collaboration opportunities
-
-[↗ Visit Portfolio](https://zain-developer-ui.github.io/portfolio/)
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Naxos — Internet Management System
-
-An academic project focused on internet management workflows.
-
-- System-focused application development
-- Working with the .NET ecosystem
-
-**Tech:** .NET
-
-*Project details and repository link will be added when publicly available.*
+- Building practical software products
+- Collaborating with businesses
+- Exploring AI integrations
+- Growing toward a web development agency
 
 </td>
 </tr>
@@ -133,50 +64,159 @@ An academic project focused on internet management workflows.
 
 ---
 
-## 🤝 Let's Collaborate
-
-I’m interested in working with businesses that want to improve their online presence, solve operational problems, or turn an idea into a useful digital product.
-
-**My focus:** Understanding business needs and building practical web solutions around them.
-
-- 🌍 Business websites and web applications
-- ⚙️ Custom digital solutions
-- 🚀 Long-term collaboration and business growth
-
-**Have a project in mind?**
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/zain-developer/) or explore my [portfolio](https://zain-developer-ui.github.io/portfolio/).
-
----
-
-## 📊 GitHub Statistics
+## / 01 — TECH STACK
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Zain-developer-ui&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9" alt="GitHub statistics" />
+**LANGUAGES**
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-developer-ui&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Most used languages" />
+<img src="https://skillicons.dev/icons?i=cs,php,js,html,css&theme=dark" alt="C sharp, PHP, JavaScript, HTML and CSS"/>
 
-<br />
+**FRAMEWORKS & WEB**
 
-<img src="https://streak-stats.demolab.com?user=Zain-developer-ui&theme=transparent&hide_border=true&background=0D1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA" alt="GitHub contribution streak" width="70%" />
+<img src="https://skillicons.dev/icons?i=dotnet,laravel,bootstrap,jquery,nextjs&theme=dark" alt=".NET, Laravel, Bootstrap, jQuery and Next.js"/>
+
+**DATA & DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,postman&theme=dark" alt="MySQL, Git, GitHub and Postman"/>
+
+</div>
+
+<details>
+<summary><b>More technologies and tools</b></summary>
+
+- **Backend & APIs:** ASP.NET Core, PHP, Laravel, REST APIs
+- **Databases:** MySQL, SQL Server, MariaDB
+- **Web technologies:** JSON, AJAX, Bootstrap
+- **Development tools:** XAMPP, phpMyAdmin, Postman, Git
+
+</details>
+
+---
+
+## / 02 — SELECTED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT-01-2563EB?style=flat-square" alt="Project 01"/>
+
+### 📦 CMS Courier Management System
+
+A database-driven courier system designed around shipment workflows and role-based access.
+
+- Shipment booking and tracking
+- Customer, staff and admin workflows
+- OTP verification
+- CSRF protection and audit features
+
+**STACK**  
+`PHP` `MySQL` `Bootstrap`
+
+<br/>
+
+<a href="https://github.com/Zain-developer-ui/CMS-Courier-Management-System">
+  <img src="https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=60A5FA" alt="View source code"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT-02-2563EB?style=flat-square" alt="Project 02"/>
+
+### 🤖 WinClient AI
+
+An AI-powered freelance assistance project focused on making freelance workflows more effective.
+
+- AI-assisted proposal generation
+- Profile and gig optimization
+- Job analysis and safety checks
+- Freelance workflow assistance
+
+**STACK**  
+`PHP` `MySQL` `AI API Integrations`
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-PRIVATE%20PROJECT-334155?style=flat-square" alt="Private project"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT-03-2563EB?style=flat-square" alt="Project 03"/>
+
+### 💻 Naxos
+
+An academic internet management system project, focused on application workflows and the .NET ecosystem.
+
+**FOCUS**  
+`.NET` `Application Development`
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://img.shields.io/badge/PROJECT-04-2563EB?style=flat-square" alt="Project 04"/>
+
+### 🌐 Portfolio & Web Projects
+
+A collection of web development work, experiments, and practical digital solutions.
+
+Explore my work and project details through my portfolio.
+
+<br/>
+
+<a href="https://zain-developer-ui.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore projects"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## / 03 — GITHUB ANALYTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zain-developer-ui&show_icons=true&hide_border=true&bg_color=080D19&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zain-developer-ui&layout=compact&hide_border=true&bg_color=080D19&title_color=60A5FA&text_color=C9D1D9&langs_count=6" alt="Most used programming languages"/>
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com/?user=Zain-developer-ui&hide_border=true&background=080D19&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8292AA" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zain-developer-ui&bg_color=080D19&color=C9D1D9&line=3B82F6&point=60A5FA&area=true&area_color=102653&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity"/>
 
 </div>
 
 ---
 
+## / 04 — LET'S BUILD SOMETHING USEFUL
+
+I’m interested in collaborating with businesses and teams that want to improve their online presence, streamline workflows, or turn an idea into a practical digital product.
+
+**Have a project or collaboration in mind? Let's connect.**
+
 <div align="center">
 
-### 💡 Ideas Into Solutions. Solutions Into Growth.
+<a href="https://www.linkedin.com/in/zain-developer/">
+  <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20TALK-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="Let's talk on LinkedIn"/>
+</a>
+<a href="https://zain-developer-ui.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-SEE%20MY%20WORK-111827?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="See my work"/>
+</a>
 
-**Thanks for visiting my profile!**
+<br/><br/>
 
-<a href="https://zain-developer-ui.github.io/portfolio/">Portfolio</a>
-&nbsp; • &nbsp;
-<a href="https://www.linkedin.com/in/zain-developer/">LinkedIn</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/Zain-developer-ui">GitHub</a>
+**Ideas → Development → Real-world solutions**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:102A56,100:0D1117&height=100&section=footer" width="100%" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2563EB,55:102653,100:050816" alt=""/>
 
 </div>
